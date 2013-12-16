@@ -1,5 +1,5 @@
-PyTM
-====
+PyTopicM
+========
 
 A Topic Modeling GUI tool for research paper abstracts implemented with Python.
 
